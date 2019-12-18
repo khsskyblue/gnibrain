@@ -1742,11 +1742,11 @@ section.lazy-placeholder:after {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #ffffff;
+  background: #ff6600;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #ffffff, #ff6600) !important;
+  background: linear-gradient(to left, #ff6600, #ff6600) !important;
 }
 .cid-rKYgdSpEwB .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
@@ -1772,11 +1772,11 @@ section.lazy-placeholder:after {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #ffffff !important;
+  background: #ff6600 !important;
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #ffffff, #ff6600) !important;
+  background: linear-gradient(to left, #ff6600, #ff6600) !important;
 }
 .cid-rKYlkI2pEe {
   padding-top: 60px;
