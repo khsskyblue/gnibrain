@@ -22,7 +22,7 @@
         "display7Font": "Black Han Sans",
         "display7Size": 1,
         "display4Font": "Black Han Sans",
-        "display4Size": "1",
+        "display4Size": "1.2",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
