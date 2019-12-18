@@ -1409,6 +1409,116 @@ section.lazy-placeholder:after {
 .cid-rKYEa0Rl4u a.close:hover {
   color: #ffffff;
 }
+.cid-rKYUKB9I7e {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rKYUKB9I7e .mbr-text {
+  color: #767676;
+}
+.cid-rKYURAJGc4 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rKYURAJGc4 .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-rKYURAJGc4 .mbr-content-text {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-rKYURAJGc4 .card {
+  word-wrap: break-word;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-rKYURAJGc4 .img-text {
+  width: 64px;
+  height: 64px;
+  font-size: 32px;
+  border: 2px solid #efefef;
+  border-radius: 50%;
+}
+@media (max-width: 991px) {
+  .cid-rKYURAJGc4 .img-text {
+    width: 48px;
+    height: 48px;
+    font-size: 24px;
+  }
+}
+@media (min-width: 992px) {
+  .cid-rKYURAJGc4 .cards-block {
+    border-top: 2px solid #efefef;
+  }
+}
+.cid-rKYURAJGc4 .cards-block .card {
+  border-bottom: 2px solid #efefef;
+  border-radius: 0;
+}
+.cid-rKYURAJGc4 .cards-container {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  word-break: break-word;
+}
+.cid-rKYURAJGc4 .media-block {
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+@media (min-width: 992px) {
+  .cid-rKYURAJGc4 .media-block {
+    padding-left: 2rem;
+  }
+}
+.cid-rKYURAJGc4 .cards-block {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+@media (max-width: 991px) {
+  .cid-rKYURAJGc4 .media-block {
+    flex-basis: 100%;
+    -webkit-flex-basis: 100%;
+    padding-left: 0;
+    padding-bottom: 2rem;
+  }
+}
+.cid-rKYURAJGc4 .media-container-row {
+  -webkit-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
+.cid-rKYUXhxabF {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/2c1d9cf3-1eba-11ea-a200-505dac8c35ff-1-1920x1080.jpg");
+}
+.cid-rKYUXhxabF .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rKYUXhxabF .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rKYUXhxabF .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rKYUXhxabF .mbr-text {
+    text-align: center;
+  }
+}
 .cid-rKYlgWGftV {
   padding-top: 60px;
   padding-bottom: 60px;
