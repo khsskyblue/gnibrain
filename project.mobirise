@@ -41,14 +41,22 @@
       }
     ],
     "uniqCompNum": 26,
-    "versionPublish": "4.11.6"
+    "versionPublish": "4.11.6",
+    "noImageResize": true,
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "뇌과학센터 지니브레인",
+        "meta_descr": "4차 산업시대에 꼭 필요한 자기계발 프로젝트 \n폭발적인 잠재력의 원천, 우뇌 활용 트레이닝",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
