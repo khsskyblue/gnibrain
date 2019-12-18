@@ -1505,7 +1505,7 @@
             }
           },
           "_name": "gallery3",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders &amp; Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked=\"\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline=\"\">\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline=\"\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\"></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ff6600\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#ff6600\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ff6600\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\"></div>\n    </div>\n\n</section>",
           "_cid": "rKYl97o3wO",
           "_anchor": "gallery3-b",
           "_protectedParams": [
@@ -1523,9 +1523,9 @@
             "gallery": [
               {
                 "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise20191118-162412019-11-3-16-32-29.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=qiyy_OZy6h4",
                 "image": "@THEME_PATH@/components/_images/background1.jpg",
                 "thumb": "@THEME_PATH@/components/_images/background1.jpg",
                 "alt": "",
@@ -1536,9 +1536,9 @@
               },
               {
                 "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise20191118-162412019-11-3-16-28-56.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=jQfXJS9y16E",
                 "image": "@THEME_PATH@/components/_images/background2.jpg",
                 "thumb": "@THEME_PATH@/components/_images/background2.jpg",
                 "alt": "",
@@ -1549,9 +1549,9 @@
               },
               {
                 "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise20191118-162412019-11-3-16-29-16.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=YisNWrx2IMI",
                 "image": "@THEME_PATH@/components/_images/background3.jpg",
                 "thumb": "@THEME_PATH@/components/_images/background3.jpg",
                 "alt": "",
@@ -1562,9 +1562,9 @@
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise20191118-162412019-11-3-16-30-13.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=XoNBc8vYwaU&t",
                 "image": "@THEME_PATH@/components/_images/background4.jpg",
                 "thumb": "@THEME_PATH@/components/_images/background4.jpg",
                 "alt": "",
@@ -1575,9 +1575,9 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise20191118-162412019-11-3-16-30-36.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=1T6h4u6oMXQ",
                 "image": "@THEME_PATH@/components/_images/background5.jpg",
                 "thumb": "@THEME_PATH@/components/_images/background5.jpg",
                 "alt": "",
@@ -1588,9 +1588,9 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise20191118-162412019-11-3-16-28-11.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=KEJ4KLiXSIU",
                 "image": "@THEME_PATH@/components/_images/background6.jpg",
                 "thumb": "@THEME_PATH@/components/_images/background6.jpg",
                 "alt": "",
@@ -1601,9 +1601,9 @@
               },
               {
                 "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise20191118-162412019-11-3-16-31-15.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=ZI0dJrNpBTQ",
                 "image": "@THEME_PATH@/components/_images/background7.jpg",
                 "thumb": "@THEME_PATH@/components/_images/background7.jpg",
                 "alt": "",
@@ -1614,9 +1614,9 @@
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise20191118-162412019-11-3-16-31-52.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=1Q4j7FHNPQA",
                 "image": "@THEME_PATH@/components/_images/background8.jpg",
                 "thumb": "@THEME_PATH@/components/_images/background8.jpg",
                 "alt": "",
@@ -1746,7 +1746,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "5분에 책 1권 읽기",
                 "active": false
               },
               {
@@ -1759,7 +1759,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "5분에 책 1권 읽기",
                 "active": false
               },
               {
@@ -1772,7 +1772,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "5분에 책 1권 읽기",
                 "active": false
               },
               {
@@ -1785,7 +1785,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "5분에 책 1권 읽기",
                 "active": true
               },
               {
@@ -1798,7 +1798,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "5분에 책 1권 읽기",
                 "active": true
               },
               {
@@ -1811,7 +1811,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "5분에 책 1권 읽기",
                 "active": false
               },
               {
@@ -1824,7 +1824,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "5분에 책 1권 읽기",
                 "active": false
               },
               {
@@ -1837,7 +1837,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "5분에 책 1권 읽기",
                 "active": false
               }
             ]
