@@ -50,7 +50,8 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -751,21 +752,21 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/2c1d9cf3-1eba-11ea-a200-505dac8c35ff-1-1920x1080.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=Yhdzd0NJGRo",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
-                "customStyle3": "display-4",
+                "customStyle3": "display-7",
                 "alt": "",
                 "title": "",
-                "textTitle": "전국민이 5분에 책1권을<br>읽는 그날까지!",
+                "textTitle": "\r<div>전국민이 5분에\r</div><div>책1권을 읽는 그날까지!</div>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "뇌과학센터 지니브레인",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-7 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a> "
               },
               {
                 "image": "@THEME_PATH@/components/_images/background2.jpg",
@@ -799,11 +800,11 @@
                 "customStyle3": "display-7",
                 "alt": "",
                 "title": "",
-                "textTitle": "전국민이 5분에 책1권을<br>읽는 그날까지!",
+                "textTitle": "\r<div>전국민이 5분에\r</div><div>책1권을 읽는 그날까지!</div>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "지니브레인",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary display-7\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-7 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-3.jpg",
@@ -818,34 +819,14 @@
                 "customStyle3": "display-7",
                 "alt": "",
                 "title": "",
-                "textTitle": "전국민이 5분에 책1권을<br>읽는 그날까지!",
+                "textTitle": "\r<div>전국민이 5분에\r</div><div>책1권을 읽는 그날까지!</div>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "지니브레인",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary display-7\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-7 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-4.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=Yhdzd0NJGRo",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-7",
-                "alt": "",
-                "title": "",
-                "textTitle": "전국민이 5분에 책1권을<br>읽는 그날까지!",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "지니브레인",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary display-7\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a> ",
-                "overlayColor": "#000000"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-8.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -857,11 +838,31 @@
                 "customStyle3": "display-7",
                 "alt": "",
                 "title": "",
-                "textTitle": "전국민이 5분에<br>책1권을<br>읽는 그날까지!",
+                "textTitle": "\r<div>전국민이 5분에\r</div><div>책1권을 읽는 그날까지!</div>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "지니브레인",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-7 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a> ",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-8.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=Yhdzd0NJGRo",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-7",
+                "alt": "",
+                "title": "",
+                "textTitle": "\r<div>전국민이 5분에\r</div><div>책1권을 읽는 그날까지!</div>",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "지니브레인",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary display-7\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-7 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a> ",
                 "overlayColor": "#000000"
               },
               {
@@ -877,11 +878,11 @@
                 "customStyle3": "display-7",
                 "alt": "",
                 "title": "",
-                "textTitle": "전국민이 5분에 책1권을<br>읽는 그날까지!",
+                "textTitle": "<br>전국민이 5분에<br>책1권을 읽는 그날까지!",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "지니브레인",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary display-7\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-7 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a> ",
                 "overlayColor": "#000000"
               }
             ]
@@ -934,11 +935,11 @@
           "_name": "header10",
           "_customHTML": "<section class=\"header10\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' &amp;&amp; bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" name=\"halfSize\" title=\"Half Size\" checked=\"\">\n        <select title=\"Align\" name=\"alignHalf\" condition=\"halfSize\">\n            <option value=\"1\" selected=\"\">Left</option>\n            <option value=\"2\">Center</option>\n            <option value=\"3\">Right</option>\n        </select>\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked=\"\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked=\"\">\n        \n        <input type=\"color\" title=\"Bg Text\" name=\"bgText\" value=\"#4f4943\" condition=\"showTitle || showSubTitle || showText || showButtons\">\n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background1.jpg\" selected=\"\" parallax=\"\">\n            <input type=\"color\" title=\"Background Color\" value=\"#767676\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-column mbr-white p-5 align-left\" mbr-class=\"{'col-lg-8 col-md-10': halfSize, 'm-auto': halfSize &amp;&amp;  alignHalf==2, 'ml-auto': halfSize &amp;&amp;  alignHalf==3}\">\n            <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                FULL SCREEN INTRO\n            </h1>\n            <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                Beautiful mobile websites\n            </h3>\n            <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n               Click any text to edit or style it. Select text to insert a link. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background.</p>\n            <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" mbr-buttons=\"\" mbr-theme-style=\"display-4\">\n                <a class=\"btn btn-md btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                <a class=\"btn btn-md btn-white-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n            </div>\n        </div>\n    </div>\n\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
           "_cid": "rL0gLf9Qrh",
+          "_anchor": "header10-12",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "header10-12"
+          "_params": {}
         },
         {
           "alias": false,
