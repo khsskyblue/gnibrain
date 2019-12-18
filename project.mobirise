@@ -746,27 +746,8 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@THEME_PATH@/components/_images/background2.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=Yhdzd0NJGRo",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "alt": "",
-                "title": "",
-                "textTitle": "전국민이 5분에<br>책1권을<br>읽는 그날까지!",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "지니브레인",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/2c1d9cf3-1eba-11ea-a200-505dac8c35ff-1-1920x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -781,6 +762,25 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "뇌과학센터 지니브레인",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "image": "@THEME_PATH@/components/_images/background2.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=Yhdzd0NJGRo",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "전국민이 5분에<br>책1권을<br>읽는 그날까지!",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "지니브레인",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               }
             ]
