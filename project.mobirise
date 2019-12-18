@@ -728,8 +728,11 @@
               "color": "#ff6600"
             },
             "P": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#ff6600"
+            },
+            "DIV": {
+              "text-align": "left"
             }
           },
           "_name": "slider1",
@@ -751,7 +754,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/2c1d9cf3-1eba-11ea-a200-505dac8c35ff-1-1920x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -762,9 +765,9 @@
                 "customStyle3": "display-7",
                 "alt": "",
                 "title": "",
-                "textTitle": "\r<div>전국민이 5분에\r</div><div>책1권을 읽는 그날까지!</div>",
+                "textTitle": "\n<div>전국민이 5분에&nbsp;</div><div><span style=\"font-size: 4.25rem;\">책1권을 읽는&nbsp;</span><span style=\"font-size: 4.25rem;\">그날까지!</span></div>",
                 "overlay": true,
-                "contentAlign": "center",
+                "contentAlign": "left",
                 "text": "뇌과학센터 지니브레인",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-7 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a> "
               },
@@ -800,7 +803,7 @@
                 "customStyle3": "display-7",
                 "alt": "",
                 "title": "",
-                "textTitle": "\r<div>전국민이 5분에\r</div><div>책1권을 읽는 그날까지!</div>",
+                "textTitle": "\n<div>전국민이 5분에\n</div><div>책1권을 읽는</div><div>그날까지!</div>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "지니브레인",
@@ -819,7 +822,7 @@
                 "customStyle3": "display-7",
                 "alt": "",
                 "title": "",
-                "textTitle": "\r<div>전국민이 5분에\r</div><div>책1권을 읽는 그날까지!</div>",
+                "textTitle": "\n<div>전국민이 5분에\n</div><div>책1권을 읽는</div><div>그날까지!</div>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "지니브레인",
@@ -838,16 +841,16 @@
                 "customStyle3": "display-7",
                 "alt": "",
                 "title": "",
-                "textTitle": "\r<div>전국민이 5분에\r</div><div>책1권을 읽는 그날까지!</div>",
+                "textTitle": "\n<div>전국민이 5분에\n</div><div>책1권을 읽는</div><div>그날까지!</div>",
                 "overlay": true,
-                "contentAlign": "center",
+                "contentAlign": "left",
                 "text": "지니브레인",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-7 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a> ",
                 "overlayColor": "#000000"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-8.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -858,7 +861,7 @@
                 "customStyle3": "display-7",
                 "alt": "",
                 "title": "",
-                "textTitle": "\r<div>전국민이 5분에\r</div><div>책1권을 읽는 그날까지!</div>",
+                "textTitle": "\n<div>전국민이 5분에\n</div><div>책1권을 읽는</div><div>그날까지!</div>",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "지니브레인",
@@ -878,7 +881,7 @@
                 "customStyle3": "display-7",
                 "alt": "",
                 "title": "",
-                "textTitle": "<br>전국민이 5분에<br>책1권을 읽는 그날까지!",
+                "textTitle": "<br>전국민이 5분에<br>책1권을 읽는<br>그날까지!",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "지니브레인",

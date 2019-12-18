@@ -1260,8 +1260,11 @@ section.lazy-placeholder:after {
   color: #ff6600;
 }
 .cid-rKYdnJET0E P {
-  text-align: center;
+  text-align: left;
   color: #ff6600;
+}
+.cid-rKYdnJET0E DIV {
+  text-align: left;
 }
 .cid-rKYliDdtqF {
   padding-top: 60px;
