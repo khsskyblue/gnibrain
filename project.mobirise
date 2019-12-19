@@ -2652,7 +2652,7 @@
             "overlayOpacity": 0.6
           },
           "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"2181141684050961207_6101885948\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">더 알아보기 &gt;</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-secondary\" href=\"#\" data-max-id=\"2181141684050961207_6101885948\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">더 알아보기 &gt;</a>",
           "display2": "display-2",
           "display4": "display-4",
           "alias": "instagram-feed",
