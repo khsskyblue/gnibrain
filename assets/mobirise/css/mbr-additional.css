@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Black+Han+Sans:400&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700,800&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans+KR:100,300,400,500,700,900&display=swap);
 
 
 
@@ -41,7 +41,7 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Nanum Gothic', sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -530,7 +530,7 @@ a:hover {
 }
 /* Scroll to top button*/
 .form-control {
-  font-family: 'Nanum Gothic', sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
