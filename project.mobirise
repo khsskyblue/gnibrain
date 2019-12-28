@@ -59,8 +59,8 @@
       }
     ],
     "uniqCompNum": 127,
-    "versionPublish": "4.11.8",
-    "noImageResize": true,
+    "versionPublish": "4.11.9",
+    "noImageResize": null,
     "favicon": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -80,7 +80,7 @@
     },
     "gdpr": false,
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": false
   },
   "pages": {
     "company.html": {
