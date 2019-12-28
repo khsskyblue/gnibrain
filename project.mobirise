@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "gnibrain",
-    "currentPage": "learning method.html",
+    "currentPage": "lm.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -9801,7 +9801,7 @@
         }
       ]
     },
-    "learning method.html": {
+    "lm.html": {
       "settings": {
         "meta_descr": "뇌과학센터 지니브레인",
         "title": "학습법",
