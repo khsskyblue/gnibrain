@@ -11541,7 +11541,8 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "스마트학습법, 딥러닝기반 수준별 맞춤학습",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a> ",
+                "overlayColor": "#149dcc"
               }
             ]
           },
