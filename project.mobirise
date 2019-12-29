@@ -11449,7 +11449,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/background2.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -11487,8 +11487,8 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-10.jpg",
-                "active": false,
-                "showButtons": true,
+                "active": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
