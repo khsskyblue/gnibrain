@@ -2692,12 +2692,11 @@ section.lazy-placeholder:after {
 }
 .cid-rM1zmgPLmT {
   background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
   background: linear-gradient(0deg, #ffffff, #ffffff);
 }
 .cid-rM1zmgPLmT .image-block {
   margin: auto;
+  width: 100% !important;
 }
 .cid-rM1zmgPLmT figcaption {
   position: relative;
