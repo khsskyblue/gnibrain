@@ -11432,7 +11432,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/2099393-2.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -11447,11 +11447,12 @@
                 "overlay": false,
                 "contentAlign": "left",
                 "text": "(선생님도 놀란) 우리 아이의 기적같은 변화",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a> ",
+                "overlayColor": "#149dcc"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-14.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -11466,7 +11467,8 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> ",
+                "overlayColor": "#149dcc"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-13.jpg",
@@ -11485,7 +11487,8 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> ",
+                "overlayColor": "#149dcc"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-10.jpg",
@@ -11504,7 +11507,8 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayColor": "#149dcc"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-11.jpg",
@@ -11520,10 +11524,11 @@
                 "alt": "",
                 "title": "",
                 "textTitle": "논술, 토론, 사고력,<br> 창의력도 문제없어요!",
-                "overlay": false,
+                "overlay": true,
                 "contentAlign": "left",
                 "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a> ",
+                "overlayColor": "#149dcc"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/urbanbrush-20181109143813747000.png",
