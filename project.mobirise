@@ -11450,7 +11450,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a> "
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-12.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-14.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
@@ -11469,7 +11469,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> "
               },
               {
-                "image": "@THEME_PATH@/components/_images/background3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-13.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
