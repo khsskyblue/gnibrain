@@ -11432,7 +11432,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/2099393-2.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -11450,8 +11450,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a> "
               },
               {
-                "image": "@THEME_PATH@/components/_images/background2.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-12.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
